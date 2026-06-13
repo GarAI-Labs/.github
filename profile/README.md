@@ -1,7 +1,7 @@
 # GarAI Labs
 
 <p align="center">
-  <img src="profile/img/gar-banner.png" alt="GarAI Labs Banner" width="800px">
+  <img src="https://raw.githubusercontent.com/GarAI-Labs/.github/main/profile/img/gar-banner.png" alt="GarAI Labs Banner" width="800px">
 </p>
 
 **An evidence-gated machine-learning research lab for market microstructure.**
@@ -66,5 +66,5 @@ Our primary active research project is **GAIA**, an online learning time-series 
 We do not claim secret market-beating formulas. We validate our instruments on synthetic **planted-truth worlds** where the ground-truth edge is mathematically known. Our public codebases contain zero hidden parameters, no grid-search validations, and are designed to fail clearly on noisy regimes.
 
 <p align="center">
-  <img src="profile/img/gar-hero.png" alt="GarAI Labs Logo Concept" width="200px">
+  <img src="https://raw.githubusercontent.com/GarAI-Labs/.github/main/profile/img/gar-hero.png" alt="GarAI Labs Logo Concept" width="200px">
 </p>
